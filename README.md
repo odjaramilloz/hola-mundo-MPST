@@ -84,3 +84,5 @@ Ejemplo de stash desde terminal.
 '------------------------'
 
 Estos son los cambios realizados desde la parte gráfica de gitkraken.
+
+Este es un cambio realizado por un usuario de manera remota
