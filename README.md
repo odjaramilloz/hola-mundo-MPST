@@ -82,3 +82,5 @@ Ejemplo de stash desde terminal.
 ||;;;;;;;;;;;;;;;;;;;;;;||
 ||jgs;;;;;;;;;;;;;;;;;;;||
 '------------------------'
+
+Estos son los cambios realizados desde la parte gráfica de gitkraken.
