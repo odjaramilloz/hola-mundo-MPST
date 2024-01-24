@@ -121,6 +121,3 @@ Estos son los cambios realizados desde la parte gráfica de gitkraken.
                                                           '. ~.'
 
                                                           Cambios de rafa
-
-
-Nuevos cambios Rafa :D
